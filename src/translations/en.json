@@ -3,11 +3,36 @@
     "nameApp": "Trace"
   },
   "errorBack": {
-    "errorGetUser" : "There was an unexpected failure while logging in with the user, Please try again later",
-    "errotGetUsers" : "Error fetching users information"
+    "errorGetUser": "There was an unexpected failure while logging in with the user, Please try again later",
+    "errotGetUsers": "Error fetching users information"
   },
-  "routes" : {
-    "users" : "Users"
+  "user": {
+    "avatar": "User avatar"
+  },
+  "theme": {
+    "dark": "Dark Mode",
+    "light": "Light Mode"
+  },
+  "routes": {
+    "users": "Users",
+    "favorites": "Favorites",
+    "metrics": "Metrics",
+    "settings": "Settings"
+  },
+  "language": {
+    "title": "Language"
+  },
+  "accessibility": {
+    "navigateTo": "Navigate to {{type}}",
+    "showSidebar": "Show Sidebar",
+    "mainNavigation": "Main navigation",
+    "sidebarNavigation" : "Sidebar navigation",
+    "appHeader" : "App header",
+    "hideSidebar" : "Hide Sidebar",
+    "userInformation" : "User information",
+    "userRole" : "User role",
+    "userName" : "User name",
+    "userSettings" : "User settings"
   },
   "languages": {
     "es": "Spanish",

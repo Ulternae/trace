@@ -1,5 +1,56 @@
 {
-  "global" : {
-    "nameApp" : "Trace"
+  "global": {
+    "nameApp": "Trace"
+  },
+  "errorBack": {
+    "errorGetUser" : "Produciuse un fallo inesperado ao iniciar sesión co usuario, por favor tente de novo máis tarde",
+    "errotGetUsers" : "Erro ao obter información dos usuarios"
+  },
+  "routes" : {
+    "users" : "Usuarios",
+    "favorites" : "Favoritos",
+    "metrics" : "Métricas",
+    "settings" : "Configuración",
+    "darkMode" : "Modo Escuro",
+    "lightMode" : "Modo Claro"
+  },
+  "accessibility" : {
+    "navigateTo" : "Navegar a {{type}}"
+  },
+  "languages": {
+    "es": "Español",
+    "en": "Inglés",
+    "gl": "Galego"
+  },
+  "gender": {
+    "male": "Home",
+    "female": "Muller",
+    "other": "Outro"
+  },
+  "profession": {
+    "engineer": "Enxeñeiro",
+    "doctor": "Doutor",
+    "teacher": "Profesor",
+    "developer": "Desenvolvedor",
+    "nurse": "Enfermeiro",
+    "designer": "Deseñador",
+    "lawyer": "Avogado",
+    "mechanic": "Mecánico",
+    "chef": "Cociñeiro",
+    "pilot": "Piloto"
+  },
+  "role": {
+    "administrator": "Administrador",
+    "user": "Usuario",
+    "client": "Cliente",
+    "moderator": "Moderador"
+  },
+  "status": {
+    "single": "Solteiro",
+    "married": "Casado",
+    "divorced": "Divorciado",
+    "widowed": "Viúvo",
+    "separated": "Separado",
+    "partnered": "Con parella"
   }
 }

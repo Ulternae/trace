@@ -1,9 +1,56 @@
 {
-  "global" : {
-    "nameApp" : "Trace"
+  "global": {
+    "nameApp": "Trace"
   },
   "errorBack": {
-    "errorGetUser" : "Hubo  un fallo inesperado al iniciar sesion con el usuario, Intente mas tarde",
-    "errotGetUsers" : "Error al traer la informacion de los nuevos usuarios"
+    "errorGetUser" : "Hubo un fallo inesperado al iniciar sesión con el usuario, por favor inténtelo de nuevo más tarde",
+    "errotGetUsers" : "Error al obtener información de los usuarios"
+  },
+  "routes" : {
+    "users" : "Usuarios",
+    "favorites" : "Favoritos",
+    "metrics" : "Métricas",
+    "settings" : "Configuración",
+    "darkMode" : "Modo Oscuro",
+    "lightMode" : "Modo Claro"
+  },
+  "accessibility" : {
+    "navigateTo" : "Navegar a {{type}}"
+  },
+  "languages": {
+    "es": "Español",
+    "en": "Inglés",
+    "gl": "Gallego"
+  },
+  "gender": {
+    "male": "Hombre",
+    "female": "Mujer",
+    "other": "Otro"
+  },
+  "profession": {
+    "engineer": "Ingeniero",
+    "doctor": "Doctor",
+    "teacher": "Profesor",
+    "developer": "Desarrollador",
+    "nurse": "Enfermero",
+    "designer": "Diseñador",
+    "lawyer": "Abogado",
+    "mechanic": "Mecánico",
+    "chef": "Chef",
+    "pilot": "Piloto"
+  },
+  "role": {
+    "administrator": "Administrador",
+    "user": "Usuario",
+    "client": "Cliente",
+    "moderator": "Moderador"
+  },
+  "status": {
+    "single": "Soltero",
+    "married": "Casado",
+    "divorced": "Divorciado",
+    "widowed": "Viudo",
+    "separated": "Separado",
+    "partnered": "Con pareja"
   }
 }

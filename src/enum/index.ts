@@ -4,9 +4,14 @@ enum SupportLanguages {
   GALICIAN = "gl",
 }
 
+enum ThemeType {
+  DARKMODE = "dark",
+  LIGHTMODE = "light"
+}
+
 enum RoutesType {
   USERS = "users",
-  FAVORITES = "favorite",
+  FAVORITES = "favorites",
   USER = "user",
   METRICS = "metrics"
 }
@@ -20,4 +25,4 @@ enum ErrorType {
 
 
 
-export { SupportLanguages, ErrorType, RoutesType };
+export { SupportLanguages, ErrorType, RoutesType, ThemeType };
