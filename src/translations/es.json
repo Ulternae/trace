@@ -1,0 +1,9 @@
+{
+  "global" : {
+    "nameApp" : "Trace"
+  },
+  "errorBack": {
+    "errorGetUser" : "Hubo  un fallo inesperado al iniciar sesion con el usuario, Intente mas tarde",
+    "errotGetUsers" : "Error al traer la informacion de los nuevos usuarios"
+  }
+}

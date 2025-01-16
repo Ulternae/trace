@@ -1,0 +1,25 @@
+{
+  "firstNames": "Maria Lucia",
+  "lastNames": "Martinez Gonzalez",
+  "description": "A highly skilled administrator with over 10 years of experience in project management and team leadership.",
+  "phone": "+57 320-456-7890",
+  "country": "colombia",
+  "gender": "female",
+  "profession": "engineer",
+  "role": "administrator",
+  "social_media": {
+    "facebook": "http://facebook.com/maria.lucia",
+    "twitter": "http://twitter.com/maria_lucia",
+    "instagram": "http://instagram.com/maria_lucia"
+  },
+  "address": "Bogotá Carrera 15 #32 {{street}} 8",
+  "birthDate": "1987-04-22",
+  "status": "married",
+  "language": "es",
+  "email": "maria.lucia@example.com",
+  "avatar": 5,
+  "avatarUrl" : "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
+  "isFavorite": false,
+  "registrationDate": "2023-12-09"
+}
+

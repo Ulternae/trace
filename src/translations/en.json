@@ -1,0 +1,48 @@
+{
+  "global": {
+    "nameApp": "Trace"
+  },
+  "errorBack": {
+    "errorGetUser" : "There was an unexpected failure while logging in with the user, Please try again later",
+    "errotGetUsers" : "Error fetching users information"
+  },
+  "routes" : {
+    "users" : "Users"
+  },
+  "languages": {
+    "es": "Spanish",
+    "en": "English",
+    "gl": "Galician"
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female",
+    "other": "Other"
+  },
+  "profession": {
+    "engineer": "Engineer",
+    "doctor": "Doctor",
+    "teacher": "Teacher",
+    "developer": "Developer",
+    "nurse": "Nurse",
+    "designer": "Designer",
+    "lawyer": "Lawyer",
+    "mechanic": "Mechanic",
+    "chef": "Chef",
+    "pilot": "Pilot"
+  },
+  "role": {
+    "administrator": "Administrator",
+    "user": "User",
+    "client": "Client",
+    "moderator": "Moderator"
+  },
+  "status": {
+    "single": "Single",
+    "married": "Married",
+    "divorced": "Divorced",
+    "widowed": "Widowed",
+    "separated": "Separated",
+    "partnered": "Partnered"
+  }
+}
