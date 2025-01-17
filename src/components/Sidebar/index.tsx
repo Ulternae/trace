@@ -33,7 +33,7 @@ const Sidebar = ({
       aria-label={t("accessibility.sidebarNavigation")}
     >
       <div
-        className="hidden absolute md:static -left-4 -top-14 z-20 rounded-r-2xl md:rounded-2xl min-h-[640px] w-auto max-w-60 md:max-w-72 md:h-full md:flex flex-col dark:bg-liwr-600 bg-perl-300 pt-10"
+        className="hidden absolute md:static -left-4 -top-14 z-20 rounded-r-2xl md:rounded-2xl min-h-[640px] w-auto max-w-60 md:max-w-72 md:h-full md:flex flex-col dark:bg-liwr-600 bg-perl-300 shadow-inner shadow-perl-700/20 pt-10"
         ref={(el) => setRef(el)}
         aria-hidden="false"
       >
@@ -121,7 +121,6 @@ const Sidebar = ({
         className="hidden md:hidden absolute bg-perl-800/40 dark:bg-liwr-400/50 z-10 -top-20 -left-4 w-screen h-screen"
         onClick={hideElement}
         ref={(el) => setRef(el)}
-        aria-hidden="true"
         tabIndex={-1}
       />
 

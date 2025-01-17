@@ -1,8 +1,7 @@
 const SidebarLoading = () => {
   return (
     <aside
-      className="animate-pulse w-[250px] h-[640px] flex-col dark:bg-liwr-600 bg-perl-300 pt-10 rounded-2xl"
-      aria-hidden="true"
+      className="hidden md:flex animate-pulse w-[250px] h-[640px] flex-col dark:bg-liwr-600 bg-perl-300 pt-10 rounded-2xl"
     >
       <header className="flex flex-col justify-between gap-8">
         <div className="flex gap-3 px-7 relative">

@@ -24,6 +24,7 @@ interface User {
   avatarUrl: string;
   isFavorite: boolean;
   registrationDate: string;
+  id: string;
 }
 
 export type { User }

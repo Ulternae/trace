@@ -8,7 +8,7 @@
         "gender": "female",
         "profession": "engineer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/pstewart",
             "twitter": "http://twitter.com/ivan20",
             "instagram": "http://instagram.com/thomas12"
@@ -21,7 +21,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": true,
-        "registrationDate": "2024-07-03"
+        "registrationDate": "2024-07-03",
+        "id": "52ed4f9c-141a-4c0a-ab2b-2a9307fe4f2f"
     },
     {
         "firstNames": "Janice Nathan",
@@ -32,7 +33,7 @@
         "gender": "male",
         "profession": "nurse",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/gmccullough",
             "twitter": "http://twitter.com/deborah64",
             "instagram": "http://instagram.com/annsmith",
@@ -46,7 +47,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": true,
-        "registrationDate": "2024-05-03"
+        "registrationDate": "2024-05-03",
+        "id": "c7ffbc32-72ad-4dd2-b970-009708aa36a9"
     },
     {
         "firstNames": "Nancy Anthony",
@@ -57,7 +59,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/alan24",
             "twitter": "http://twitter.com/matthew51",
             "instagram": "http://instagram.com/kimberly00"
@@ -70,7 +72,8 @@
         "avatar": 4,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2024-08-11"
+        "registrationDate": "2024-08-11",
+        "id": "8370eaa3-cd1a-4f5d-ae94-ec1534a24cba"
     },
     {
         "firstNames": "David Darren",
@@ -81,7 +84,7 @@
         "gender": "female",
         "profession": "mechanic",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/davidturner",
             "twitter": "http://twitter.com/krivera",
             "instagram": "http://instagram.com/mistymurray",
@@ -95,7 +98,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-04-09"
+        "registrationDate": "2024-04-09",
+        "id": "d0d0be4c-5546-47c0-b547-18db997d850c"
     },
     {
         "firstNames": "Kendra Patrick",
@@ -106,7 +110,7 @@
         "gender": "female",
         "profession": "designer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jerryfrank",
             "twitter": "http://twitter.com/hhunter",
             "instagram": "http://instagram.com/ronaldknight",
@@ -120,7 +124,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/dog_survivor_in_ruined_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-09"
+        "registrationDate": "2024-03-09",
+        "id": "8bd698a9-fb53-4c66-ba46-c505be5be079"
     },
     {
         "firstNames": "Julie Kelly",
@@ -131,7 +136,7 @@
         "gender": "other",
         "profession": "mechanic",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/kelly71",
             "twitter": "http://twitter.com/laurahill",
             "instagram": "http://instagram.com/lauragriffin",
@@ -145,7 +150,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-11-05"
+        "registrationDate": "2024-11-05",
+        "id": "ec169de6-7be4-45bc-8bca-e28b69d27535"
     },
     {
         "firstNames": "Amy Richard",
@@ -156,7 +162,7 @@
         "gender": "male",
         "profession": "chef",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/anthonyruiz",
             "twitter": "http://twitter.com/mathistiffany",
             "instagram": "http://instagram.com/parksjudy",
@@ -170,7 +176,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": true,
-        "registrationDate": "2024-01-21"
+        "registrationDate": "2024-01-21",
+        "id": "6bada65f-a235-4ec9-87b3-257a6063de6d"
     },
     {
         "firstNames": "Kristina Paul",
@@ -181,7 +188,7 @@
         "gender": "female",
         "profession": "designer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/larry64",
             "twitter": "http://twitter.com/tcooper",
             "instagram": "http://instagram.com/bradleyvilla",
@@ -195,7 +202,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": false,
-        "registrationDate": "2024-03-17"
+        "registrationDate": "2024-03-17",
+        "id": "57b805c9-ed7c-4aef-8744-ea453717ac5b"
     },
     {
         "firstNames": "David Monica",
@@ -206,7 +214,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/williamjones",
             "twitter": "http://twitter.com/kimberlyhampton",
             "instagram": "http://instagram.com/joeanderson",
@@ -220,7 +228,8 @@
         "avatar": 7,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ominous_deep-sea_fish_lurking.png",
         "isFavorite": false,
-        "registrationDate": "2024-05-18"
+        "registrationDate": "2024-05-18",
+        "id": "f4ad895b-06f7-44b4-9dc2-544a09f335d3"
     },
     {
         "firstNames": "James Leslie",
@@ -231,7 +240,7 @@
         "gender": "other",
         "profession": "nurse",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/masonchristy",
             "twitter": "http://twitter.com/christopheryoung",
             "instagram": "http://instagram.com/johnjohnson",
@@ -245,7 +254,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-01-21"
+        "registrationDate": "2024-01-21",
+        "id": "6eed889b-c8fe-4a14-b5cc-b0bc2d13786d"
     },
     {
         "firstNames": "Matthew Linda",
@@ -256,7 +266,7 @@
         "gender": "other",
         "profession": "designer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/dunnrodney",
             "twitter": "http://twitter.com/alyssabrown",
             "instagram": "http://instagram.com/bethanydavid",
@@ -270,7 +280,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": false,
-        "registrationDate": "2024-05-09"
+        "registrationDate": "2024-05-09",
+        "id": "2517e630-e2c2-4b8f-9170-a3cd6a37d4ba"
     },
     {
         "firstNames": "Lauren Kathleen",
@@ -281,7 +292,7 @@
         "gender": "male",
         "profession": "engineer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/davidanderson",
             "twitter": "http://twitter.com/tthornton",
             "instagram": "http://instagram.com/blairapril",
@@ -295,7 +306,8 @@
         "avatar": 7,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cloaked_figure_in_misty_city.png",
         "isFavorite": false,
-        "registrationDate": "2024-10-11"
+        "registrationDate": "2024-10-11",
+        "id": "f1a1c3ae-0b38-40f9-9e33-eeb7d681a783"
     },
     {
         "firstNames": "Erik Matthew",
@@ -306,7 +318,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/vgibbs",
             "twitter": "http://twitter.com/dalvarez",
             "instagram": "http://instagram.com/qgibbs",
@@ -320,7 +332,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": true,
-        "registrationDate": "2024-06-12"
+        "registrationDate": "2024-06-12",
+        "id": "6b5518e0-539d-4229-97ff-0ef3d47504cd"
     },
     {
         "firstNames": "Mark Tammy",
@@ -331,7 +344,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/matthewjenkins",
             "twitter": "http://twitter.com/kathleen15",
             "instagram": "http://instagram.com/douglas57"
@@ -344,7 +357,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": true,
-        "registrationDate": "2025-01-03"
+        "registrationDate": "2025-01-03",
+        "id": "803eb186-8b45-4b64-b76d-7392d34f9a38"
     },
     {
         "firstNames": "Kimberly Amy",
@@ -355,7 +369,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/samuelsutton",
             "twitter": "http://twitter.com/andrew26",
             "instagram": "http://instagram.com/nicolecunningham",
@@ -369,7 +383,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ominous_deep-sea_fish_lurking.png",
         "isFavorite": false,
-        "registrationDate": "2024-10-09"
+        "registrationDate": "2024-10-09",
+        "id": "ed4e9c23-513f-4111-be1b-911f041c622e"
     },
     {
         "firstNames": "Stephanie Angela",
@@ -380,7 +395,7 @@
         "gender": "male",
         "profession": "nurse",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/teresa41",
             "twitter": "http://twitter.com/hberger",
             "instagram": "http://instagram.com/pmoore",
@@ -394,7 +409,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-05"
+        "registrationDate": "2024-03-05",
+        "id": "c60b8071-c719-4620-8585-608270c980ca"
     },
     {
         "firstNames": "Barbara Billy",
@@ -405,7 +421,7 @@
         "gender": "other",
         "profession": "mechanic",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/gmiller",
             "twitter": "http://twitter.com/lori37",
             "instagram": "http://instagram.com/michaelrowe",
@@ -419,7 +435,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": false,
-        "registrationDate": "2024-12-16"
+        "registrationDate": "2024-12-16",
+        "id": "782ca348-242a-496f-9593-f170490205c1"
     },
     {
         "firstNames": "Molly Linda",
@@ -430,7 +447,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/janet06",
             "twitter": "http://twitter.com/christophergutierrez",
             "instagram": "http://instagram.com/ofernandez",
@@ -444,7 +461,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_space.png",
         "isFavorite": false,
-        "registrationDate": "2024-03-31"
+        "registrationDate": "2024-03-31",
+        "id": "539100a5-e55e-426d-bcbf-8aa81ea081cd"
     },
     {
         "firstNames": "Joshua Mary",
@@ -455,7 +473,7 @@
         "gender": "male",
         "profession": "engineer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/terri83",
             "twitter": "http://twitter.com/stevenedwards",
             "instagram": "http://instagram.com/joshuabeck"
@@ -468,7 +486,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": false,
-        "registrationDate": "2024-02-11"
+        "registrationDate": "2024-02-11",
+        "id": "3aacf37b-473a-4ce0-9bce-e1b2edf3880b"
     },
     {
         "firstNames": "Holly Anthony",
@@ -479,7 +498,7 @@
         "gender": "female",
         "profession": "teacher",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/lauren07",
             "twitter": "http://twitter.com/bryanjackson",
             "instagram": "http://instagram.com/ilewis"
@@ -492,7 +511,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
         "isFavorite": false,
-        "registrationDate": "2024-02-15"
+        "registrationDate": "2024-02-15",
+        "id": "48076f1a-f0c4-4a56-91a3-01c96b9f995a"
     },
     {
         "firstNames": "Jennifer Penny",
@@ -503,7 +523,7 @@
         "gender": "male",
         "profession": "mechanic",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/rebeccastanley",
             "twitter": "http://twitter.com/albert00",
             "instagram": "http://instagram.com/mariecollins",
@@ -517,7 +537,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-08"
+        "registrationDate": "2024-11-08",
+        "id": "7b52cead-4211-4d25-b9e2-c1561be460a9"
     },
     {
         "firstNames": "Deborah Deborah",
@@ -528,7 +549,7 @@
         "gender": "female",
         "profession": "lawyer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/vschneider",
             "twitter": "http://twitter.com/brandongutierrez",
             "instagram": "http://instagram.com/williamskimberly",
@@ -542,7 +563,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cloaked_figure_in_misty_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-08-11"
+        "registrationDate": "2024-08-11",
+        "id": "beaad3a4-085a-40be-a1a4-ff65f7669096"
     },
     {
         "firstNames": "Danielle Eric",
@@ -553,7 +575,7 @@
         "gender": "other",
         "profession": "mechanic",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/xharrington",
             "twitter": "http://twitter.com/laura03",
             "instagram": "http://instagram.com/alvarezmicheal"
@@ -566,7 +588,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-09-24"
+        "registrationDate": "2024-09-24",
+        "id": "24bb775d-9ab9-4b5d-89e5-0f134d71dbc1"
     },
     {
         "firstNames": "Carol Theresa",
@@ -577,7 +600,7 @@
         "gender": "female",
         "profession": "doctor",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/efarrell",
             "twitter": "http://twitter.com/jeffrey11",
             "instagram": "http://instagram.com/hunterandres",
@@ -591,7 +614,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": true,
-        "registrationDate": "2024-10-24"
+        "registrationDate": "2024-10-24",
+        "id": "08e0c70d-a16f-4726-99b7-50bfb77905d8"
     },
     {
         "firstNames": "Christian Rachel",
@@ -602,7 +626,7 @@
         "gender": "female",
         "profession": "designer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/coopermichelle",
             "twitter": "http://twitter.com/xdunn",
             "instagram": "http://instagram.com/dianatorres"
@@ -615,7 +639,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-12-28"
+        "registrationDate": "2024-12-28",
+        "id": "d5894519-3963-4ec2-af0d-2eefcbc8c12c"
     },
     {
         "firstNames": "Andrea April",
@@ -626,7 +651,7 @@
         "gender": "male",
         "profession": "lawyer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/alisongreer",
             "twitter": "http://twitter.com/lbell",
             "instagram": "http://instagram.com/nancyjordan",
@@ -640,7 +665,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-11"
+        "registrationDate": "2024-11-11",
+        "id": "b59ecc16-6810-404c-8e92-68f1db722a98"
     },
     {
         "firstNames": "Colleen Erika",
@@ -651,7 +677,7 @@
         "gender": "other",
         "profession": "pilot",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/joel44",
             "twitter": "http://twitter.com/richardsonshannon",
             "instagram": "http://instagram.com/cchurch",
@@ -665,7 +691,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-02-06"
+        "registrationDate": "2024-02-06",
+        "id": "985cabf2-e2da-4bb8-a7ed-cbebfae95710"
     },
     {
         "firstNames": "Jeanette Michelle",
@@ -676,7 +703,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/amy76",
             "twitter": "http://twitter.com/garciadaniel",
             "instagram": "http://instagram.com/larrywilson"
@@ -689,7 +716,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": true,
-        "registrationDate": "2024-01-30"
+        "registrationDate": "2024-01-30",
+        "id": "d0ab220c-8df0-4cbe-bcc0-3ec5031965d9"
     },
     {
         "firstNames": "Anita Micheal",
@@ -700,7 +728,7 @@
         "gender": "male",
         "profession": "chef",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/yschneider",
             "twitter": "http://twitter.com/justinbonilla",
             "instagram": "http://instagram.com/burtoncynthia",
@@ -714,7 +742,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-09-07"
+        "registrationDate": "2024-09-07",
+        "id": "5cb8ef5e-1107-46d8-bb22-f64eb95ad3f9"
     },
     {
         "firstNames": "Kimberly Gregory",
@@ -725,7 +754,7 @@
         "gender": "female",
         "profession": "chef",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jessica68",
             "twitter": "http://twitter.com/christopherhunter",
             "instagram": "http://instagram.com/crossangela",
@@ -739,7 +768,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": false,
-        "registrationDate": "2024-02-03"
+        "registrationDate": "2024-02-03",
+        "id": "8137f83e-d7dc-448b-882c-beebc1079d7d"
     },
     {
         "firstNames": "Monica Gerald",
@@ -750,7 +780,7 @@
         "gender": "other",
         "profession": "mechanic",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/johnsoncatherine",
             "twitter": "http://twitter.com/george63",
             "instagram": "http://instagram.com/robinjohnson",
@@ -764,7 +794,8 @@
         "avatar": 4,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": false,
-        "registrationDate": "2024-01-18"
+        "registrationDate": "2024-01-18",
+        "id": "8caa92b8-aa41-404f-8e08-25ac266a009d"
     },
     {
         "firstNames": "Margaret Jillian",
@@ -775,7 +806,7 @@
         "gender": "male",
         "profession": "teacher",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/parkerdavid",
             "twitter": "http://twitter.com/dustinpeck",
             "instagram": "http://instagram.com/bradleyburns",
@@ -789,7 +820,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2025-01-12"
+        "registrationDate": "2025-01-12",
+        "id": "862cbe2d-f164-4ac9-b8e1-7b732bca52d1"
     },
     {
         "firstNames": "Richard Cynthia",
@@ -800,7 +832,7 @@
         "gender": "female",
         "profession": "teacher",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/megan62",
             "twitter": "http://twitter.com/wpark",
             "instagram": "http://instagram.com/courtney64",
@@ -814,7 +846,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": true,
-        "registrationDate": "2024-12-26"
+        "registrationDate": "2024-12-26",
+        "id": "2bcf4bfb-9080-4300-b84a-5e98ba73f253"
     },
     {
         "firstNames": "Joel Amy",
@@ -825,7 +858,7 @@
         "gender": "other",
         "profession": "developer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/arojas",
             "twitter": "http://twitter.com/kimberlybrown",
             "instagram": "http://instagram.com/sarahsnow",
@@ -839,7 +872,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-05-17"
+        "registrationDate": "2024-05-17",
+        "id": "7bb08e50-7c20-41c2-b25b-f44c93c40d28"
     },
     {
         "firstNames": "Stephanie George",
@@ -850,7 +884,7 @@
         "gender": "female",
         "profession": "lawyer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/murphytimothy",
             "twitter": "http://twitter.com/yphillips",
             "instagram": "http://instagram.com/coopergary",
@@ -864,7 +898,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": false,
-        "registrationDate": "2024-08-01"
+        "registrationDate": "2024-08-01",
+        "id": "795ededb-4afc-4eeb-8ac8-abd3c00c799b"
     },
     {
         "firstNames": "Kenneth Eric",
@@ -875,7 +910,7 @@
         "gender": "female",
         "profession": "doctor",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jennifer92",
             "twitter": "http://twitter.com/ejohnson",
             "instagram": "http://instagram.com/sarajenkins"
@@ -888,7 +923,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-14"
+        "registrationDate": "2024-11-14",
+        "id": "44ff45c4-e323-427f-a50e-60e3e427f08b"
     },
     {
         "firstNames": "Christopher Nathan",
@@ -899,7 +935,7 @@
         "gender": "other",
         "profession": "pilot",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/kluna",
             "twitter": "http://twitter.com/jasongonzalez",
             "instagram": "http://instagram.com/katherine54",
@@ -913,7 +949,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/dog_survivor_in_ruined_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-10-23"
+        "registrationDate": "2024-10-23",
+        "id": "4158c519-997d-4cd2-860e-4750162d1ccc"
     },
     {
         "firstNames": "Kevin Luis",
@@ -924,7 +961,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/michaeladams",
             "twitter": "http://twitter.com/sarah12",
             "instagram": "http://instagram.com/wmontoya",
@@ -938,7 +975,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-07-03"
+        "registrationDate": "2024-07-03",
+        "id": "7040abbf-021c-4b44-a902-8fb3428f722a"
     },
     {
         "firstNames": "Robert Micheal",
@@ -949,7 +987,7 @@
         "gender": "male",
         "profession": "designer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/edwardsryan",
             "twitter": "http://twitter.com/conleybrent",
             "instagram": "http://instagram.com/tamara53",
@@ -963,7 +1001,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2024-06-14"
+        "registrationDate": "2024-06-14",
+        "id": "e7f59221-ae18-4de9-953a-9c572d854852"
     },
     {
         "firstNames": "Vanessa Christina",
@@ -974,7 +1013,7 @@
         "gender": "other",
         "profession": "engineer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/joshuakent",
             "twitter": "http://twitter.com/kristen43",
             "instagram": "http://instagram.com/emorrison",
@@ -988,7 +1027,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/dog_survivor_in_ruined_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-12-15"
+        "registrationDate": "2024-12-15",
+        "id": "04c04841-adba-4663-b4e5-1974e562119f"
     },
     {
         "firstNames": "Grant Justin",
@@ -999,7 +1039,7 @@
         "gender": "other",
         "profession": "teacher",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/scottzimmerman",
             "twitter": "http://twitter.com/hflores",
             "instagram": "http://instagram.com/jenniferwilson",
@@ -1013,7 +1053,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cloaked_figure_in_misty_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-09-28"
+        "registrationDate": "2024-09-28",
+        "id": "2adbf22d-fc0c-4a6e-8025-991a70ac0b02"
     },
     {
         "firstNames": "Laura Savannah",
@@ -1024,7 +1065,7 @@
         "gender": "female",
         "profession": "teacher",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/brandiriddle",
             "twitter": "http://twitter.com/lhopkins",
             "instagram": "http://instagram.com/kathydiaz"
@@ -1037,7 +1078,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": false,
-        "registrationDate": "2024-03-17"
+        "registrationDate": "2024-03-17",
+        "id": "a6ac14a0-a254-49d5-9472-03c6ecdb35cd"
     },
     {
         "firstNames": "William Shannon",
@@ -1048,7 +1090,7 @@
         "gender": "other",
         "profession": "developer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/morganwatkins",
             "twitter": "http://twitter.com/brianmartinez",
             "instagram": "http://instagram.com/bailey42",
@@ -1062,7 +1104,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2024-02-26"
+        "registrationDate": "2024-02-26",
+        "id": "6a3d8c24-b923-4de6-9e87-8dcf2810aaf9"
     },
     {
         "firstNames": "Madison Lisa",
@@ -1073,7 +1116,7 @@
         "gender": "male",
         "profession": "nurse",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/ucastillo",
             "twitter": "http://twitter.com/davidtaylor",
             "instagram": "http://instagram.com/mcdonaldamy"
@@ -1086,7 +1129,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": false,
-        "registrationDate": "2024-04-23"
+        "registrationDate": "2024-04-23",
+        "id": "c46e2482-3404-4699-a3f5-4ee3ce946f79"
     },
     {
         "firstNames": "Amber Daniel",
@@ -1097,7 +1141,7 @@
         "gender": "male",
         "profession": "chef",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/mooremonica",
             "twitter": "http://twitter.com/mfisher",
             "instagram": "http://instagram.com/andreatran",
@@ -1111,7 +1155,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
         "isFavorite": false,
-        "registrationDate": "2024-12-14"
+        "registrationDate": "2024-12-14",
+        "id": "d205a284-21c6-4f37-b2b3-9388e630c9c0"
     },
     {
         "firstNames": "Megan Kevin",
@@ -1122,7 +1167,7 @@
         "gender": "male",
         "profession": "teacher",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/ugomez",
             "twitter": "http://twitter.com/farleynancy",
             "instagram": "http://instagram.com/jonathanbennett",
@@ -1136,7 +1181,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-07-31"
+        "registrationDate": "2024-07-31",
+        "id": "ac71cb00-aced-4ba7-8ef1-124ed356cd27"
     },
     {
         "firstNames": "Benjamin Alison",
@@ -1147,7 +1193,7 @@
         "gender": "other",
         "profession": "pilot",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/ballsara",
             "twitter": "http://twitter.com/josephpalmer",
             "instagram": "http://instagram.com/patrick03"
@@ -1160,7 +1206,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": false,
-        "registrationDate": "2024-02-04"
+        "registrationDate": "2024-02-04",
+        "id": "54edaa5b-dba8-48bd-855c-b50874ec00e1"
     },
     {
         "firstNames": "Brenda Benjamin",
@@ -1171,7 +1218,7 @@
         "gender": "female",
         "profession": "pilot",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jenniferbyrd",
             "twitter": "http://twitter.com/qwilliams",
             "instagram": "http://instagram.com/amanda69",
@@ -1185,7 +1232,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-05-15"
+        "registrationDate": "2024-05-15",
+        "id": "04f19536-8a41-4916-8186-7456dfe1dd9d"
     },
     {
         "firstNames": "Stephanie Lindsay",
@@ -1196,7 +1244,7 @@
         "gender": "male",
         "profession": "mechanic",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/alexandra22",
             "twitter": "http://twitter.com/carlos46",
             "instagram": "http://instagram.com/hromero",
@@ -1210,7 +1258,8 @@
         "avatar": 7,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-07-30"
+        "registrationDate": "2024-07-30",
+        "id": "98cca3dc-697e-43db-bbf7-e3761dba7cf9"
     },
     {
         "firstNames": "Caroline Jessica",
@@ -1221,7 +1270,7 @@
         "gender": "other",
         "profession": "teacher",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/tammy62",
             "twitter": "http://twitter.com/qbyrd",
             "instagram": "http://instagram.com/itaylor",
@@ -1235,7 +1284,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": false,
-        "registrationDate": "2024-10-25"
+        "registrationDate": "2024-10-25",
+        "id": "9ca6311f-68f5-4830-b910-c38be34e007e"
     },
     {
         "firstNames": "Christina Melvin",
@@ -1246,7 +1296,7 @@
         "gender": "female",
         "profession": "pilot",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/johnsonsarah",
             "twitter": "http://twitter.com/patrick39",
             "instagram": "http://instagram.com/nicholsstacy",
@@ -1260,7 +1310,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": false,
-        "registrationDate": "2024-11-05"
+        "registrationDate": "2024-11-05",
+        "id": "19cb3989-16e2-47a4-864d-e37289c59615"
     },
     {
         "firstNames": "Michael Tara",
@@ -1271,7 +1322,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/erika68",
             "twitter": "http://twitter.com/sandersmichael",
             "instagram": "http://instagram.com/gomezrachel",
@@ -1285,7 +1336,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cloaked_figure_in_misty_city.png",
         "isFavorite": false,
-        "registrationDate": "2024-05-27"
+        "registrationDate": "2024-05-27",
+        "id": "f5ce3147-85ce-44f9-b57a-a1db5575fb34"
     },
     {
         "firstNames": "William Andrew",
@@ -1296,7 +1348,7 @@
         "gender": "other",
         "profession": "chef",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/lisajones",
             "twitter": "http://twitter.com/scottheather",
             "instagram": "http://instagram.com/dianamiddleton",
@@ -1310,7 +1362,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/shattered_chains_and_skeleton_hands.png",
         "isFavorite": false,
-        "registrationDate": "2024-11-24"
+        "registrationDate": "2024-11-24",
+        "id": "b22c1a2e-0872-43c9-9151-847191aaf617"
     },
     {
         "firstNames": "Brenda Abigail",
@@ -1321,7 +1374,7 @@
         "gender": "other",
         "profession": "designer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/mwilliams",
             "twitter": "http://twitter.com/simpsonaaron",
             "instagram": "http://instagram.com/martinjason",
@@ -1335,7 +1388,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-08"
+        "registrationDate": "2024-03-08",
+        "id": "f87e99a5-3c4c-40f2-8fe7-4dbd35145efc"
     },
     {
         "firstNames": "Kyle Diane",
@@ -1346,7 +1400,7 @@
         "gender": "male",
         "profession": "engineer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/johnmcneil",
             "twitter": "http://twitter.com/andres10",
             "instagram": "http://instagram.com/robinsonmichael"
@@ -1359,7 +1413,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": true,
-        "registrationDate": "2024-04-26"
+        "registrationDate": "2024-04-26",
+        "id": "a1ace86c-d089-44b8-a53a-e333881d7b3e"
     },
     {
         "firstNames": "Sandra Danielle",
@@ -1370,7 +1425,7 @@
         "gender": "male",
         "profession": "mechanic",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/seanlawrence",
             "twitter": "http://twitter.com/adrian95",
             "instagram": "http://instagram.com/elizabeth09",
@@ -1384,7 +1439,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/dog_survivor_in_ruined_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-12-25"
+        "registrationDate": "2024-12-25",
+        "id": "ad3d5f51-2422-4fe9-b522-e81a044d4937"
     },
     {
         "firstNames": "John Michael",
@@ -1395,7 +1451,7 @@
         "gender": "other",
         "profession": "chef",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/cody39",
             "twitter": "http://twitter.com/lcollins",
             "instagram": "http://instagram.com/collierandrew",
@@ -1409,7 +1465,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-30"
+        "registrationDate": "2024-11-30",
+        "id": "0d45dc00-a5ea-41d0-8755-713551252c00"
     },
     {
         "firstNames": "Justin Paul",
@@ -1420,7 +1477,7 @@
         "gender": "female",
         "profession": "doctor",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/maryhernandez",
             "twitter": "http://twitter.com/zachary47",
             "instagram": "http://instagram.com/james32"
@@ -1433,7 +1490,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": false,
-        "registrationDate": "2024-11-24"
+        "registrationDate": "2024-11-24",
+        "id": "73b2dcab-a548-440b-9128-71eb8dcbfef3"
     },
     {
         "firstNames": "Alexis Johnathan",
@@ -1444,7 +1502,7 @@
         "gender": "other",
         "profession": "lawyer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/sheila18",
             "twitter": "http://twitter.com/nmoody",
             "instagram": "http://instagram.com/leslie12"
@@ -1457,7 +1515,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2024-06-10"
+        "registrationDate": "2024-06-10",
+        "id": "4a22563d-718d-4075-880f-e28914fbd1f2"
     },
     {
         "firstNames": "Samantha Danielle",
@@ -1468,7 +1527,7 @@
         "gender": "female",
         "profession": "engineer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/lorimccullough",
             "twitter": "http://twitter.com/upayne",
             "instagram": "http://instagram.com/bradleystafford",
@@ -1482,7 +1541,8 @@
         "avatar": 7,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-15"
+        "registrationDate": "2024-11-15",
+        "id": "90a60fea-4599-4056-b597-63b5e9d578c9"
     },
     {
         "firstNames": "Mike Christopher",
@@ -1493,7 +1553,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/ryan77",
             "twitter": "http://twitter.com/rlewis",
             "instagram": "http://instagram.com/thorntonmichael",
@@ -1507,7 +1567,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/soldier_walking_through_battlefield_aftermath.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-17"
+        "registrationDate": "2024-03-17",
+        "id": "2c8e4dc9-3fcd-4dfd-93e8-e7c094031e71"
     },
     {
         "firstNames": "Jessica William",
@@ -1518,7 +1579,7 @@
         "gender": "female",
         "profession": "engineer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/courtneysmith",
             "twitter": "http://twitter.com/bobbyoneill",
             "instagram": "http://instagram.com/alyssa63",
@@ -1532,7 +1593,8 @@
         "avatar": 4,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": false,
-        "registrationDate": "2024-08-19"
+        "registrationDate": "2024-08-19",
+        "id": "af4e9768-6596-4911-b984-5e37fadf91e1"
     },
     {
         "firstNames": "Latoya Alexander",
@@ -1543,7 +1605,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/xnorton",
             "twitter": "http://twitter.com/christopherwilson",
             "instagram": "http://instagram.com/inelson",
@@ -1557,7 +1619,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": false,
-        "registrationDate": "2024-11-11"
+        "registrationDate": "2024-11-11",
+        "id": "48c5de7f-5d04-4592-abda-1a50eeb5c05c"
     },
     {
         "firstNames": "Sean Donna",
@@ -1568,7 +1631,7 @@
         "gender": "other",
         "profession": "doctor",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/adamskimberly",
             "twitter": "http://twitter.com/thudson",
             "instagram": "http://instagram.com/amber64",
@@ -1582,7 +1645,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": true,
-        "registrationDate": "2024-10-14"
+        "registrationDate": "2024-10-14",
+        "id": "ee8118e9-34f5-4310-908b-55cc7163ea0c"
     },
     {
         "firstNames": "Barbara Timothy",
@@ -1593,7 +1657,7 @@
         "gender": "other",
         "profession": "developer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/adunlap",
             "twitter": "http://twitter.com/jacksonlori",
             "instagram": "http://instagram.com/lesliehowell",
@@ -1607,7 +1671,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-08-08"
+        "registrationDate": "2024-08-08",
+        "id": "57e74c26-809f-4a5f-8094-3075778dff7b"
     },
     {
         "firstNames": "Margaret Jacqueline",
@@ -1618,7 +1683,7 @@
         "gender": "male",
         "profession": "lawyer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jacquelinecompton",
             "twitter": "http://twitter.com/paulclark",
             "instagram": "http://instagram.com/tayers",
@@ -1632,7 +1697,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-15"
+        "registrationDate": "2024-03-15",
+        "id": "d3e3ebe9-24b9-46ab-86f2-b4c6b5687ff9"
     },
     {
         "firstNames": "Debbie Brandon",
@@ -1643,7 +1709,7 @@
         "gender": "female",
         "profession": "nurse",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/chelsea21",
             "twitter": "http://twitter.com/zavila",
             "instagram": "http://instagram.com/dthompson",
@@ -1657,7 +1723,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-20"
+        "registrationDate": "2024-03-20",
+        "id": "303ce4b7-d736-4318-bf43-8a1b3dcade11"
     },
     {
         "firstNames": "John Joanna",
@@ -1668,7 +1735,7 @@
         "gender": "female",
         "profession": "engineer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jenniferbrennan",
             "twitter": "http://twitter.com/jonhunt",
             "instagram": "http://instagram.com/jennifer39",
@@ -1682,7 +1749,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": true,
-        "registrationDate": "2024-07-08"
+        "registrationDate": "2024-07-08",
+        "id": "d8003f52-b51d-49d3-a592-56cec363dc06"
     },
     {
         "firstNames": "Michael Curtis",
@@ -1693,7 +1761,7 @@
         "gender": "male",
         "profession": "nurse",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/chelsea36",
             "twitter": "http://twitter.com/caitlinhodges",
             "instagram": "http://instagram.com/tylerclark",
@@ -1707,7 +1775,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": false,
-        "registrationDate": "2024-10-14"
+        "registrationDate": "2024-10-14",
+        "id": "20fee6f6-afb4-43fe-8de4-1869a2af8559"
     },
     {
         "firstNames": "Jessica Christopher",
@@ -1718,7 +1787,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/janetpetty",
             "twitter": "http://twitter.com/david98",
             "instagram": "http://instagram.com/brendahawkins",
@@ -1732,7 +1801,8 @@
         "avatar": 4,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-06-09"
+        "registrationDate": "2024-06-09",
+        "id": "23c9a0d8-f466-4107-be79-c4c4b2e64db0"
     },
     {
         "firstNames": "Christy Nancy",
@@ -1743,7 +1813,7 @@
         "gender": "male",
         "profession": "nurse",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/robertsonnancy",
             "twitter": "http://twitter.com/andrew20",
             "instagram": "http://instagram.com/mckaymorgan"
@@ -1756,7 +1826,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": true,
-        "registrationDate": "2024-05-14"
+        "registrationDate": "2024-05-14",
+        "id": "b0bfecff-8c28-40da-8fd8-2da56edd7a2d"
     },
     {
         "firstNames": "Aaron Robert",
@@ -1767,7 +1838,7 @@
         "gender": "female",
         "profession": "chef",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/angelawright",
             "twitter": "http://twitter.com/vmolina",
             "instagram": "http://instagram.com/wrubio"
@@ -1780,7 +1851,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": true,
-        "registrationDate": "2024-02-29"
+        "registrationDate": "2024-02-29",
+        "id": "d690abf5-45eb-466d-8285-0e1fb20f178c"
     },
     {
         "firstNames": "Veronica Grace",
@@ -1791,7 +1863,7 @@
         "gender": "female",
         "profession": "nurse",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/lesliesims",
             "twitter": "http://twitter.com/amandayoung",
             "instagram": "http://instagram.com/mwarren",
@@ -1805,7 +1877,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-04-13"
+        "registrationDate": "2024-04-13",
+        "id": "4faed45d-9272-4ac0-a5d7-108ebf587c69"
     },
     {
         "firstNames": "Brian Nicole",
@@ -1816,7 +1889,7 @@
         "gender": "other",
         "profession": "lawyer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/rmills",
             "twitter": "http://twitter.com/saundersscott",
             "instagram": "http://instagram.com/toddgonzalez",
@@ -1830,7 +1903,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": true,
-        "registrationDate": "2024-04-22"
+        "registrationDate": "2024-04-22",
+        "id": "d578931f-672a-4d8a-9878-dae561982321"
     },
     {
         "firstNames": "Michael Sara",
@@ -1841,7 +1915,7 @@
         "gender": "male",
         "profession": "engineer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/anthonygray",
             "twitter": "http://twitter.com/bpeters",
             "instagram": "http://instagram.com/joshua45",
@@ -1855,7 +1929,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ominous_deep-sea_fish_lurking.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-18"
+        "registrationDate": "2024-03-18",
+        "id": "dd12a0d4-1f81-4ebb-bd6d-daa29211e81f"
     },
     {
         "firstNames": "Carol Tammy",
@@ -1866,7 +1941,7 @@
         "gender": "male",
         "profession": "lawyer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/conradandrea",
             "twitter": "http://twitter.com/tracybowers",
             "instagram": "http://instagram.com/brianramos",
@@ -1880,7 +1955,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-10-25"
+        "registrationDate": "2024-10-25",
+        "id": "b0abc11f-263b-4427-b341-a7621586379c"
     },
     {
         "firstNames": "Jerry Adam",
@@ -1891,7 +1967,7 @@
         "gender": "male",
         "profession": "lawyer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jhutchinson",
             "twitter": "http://twitter.com/wguzman",
             "instagram": "http://instagram.com/brendacook",
@@ -1905,7 +1981,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": true,
-        "registrationDate": "2024-04-19"
+        "registrationDate": "2024-04-19",
+        "id": "36e01742-6d6b-44c6-a472-b72bc89a963c"
     },
     {
         "firstNames": "Nicholas Monica",
@@ -1916,7 +1993,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/xclark",
             "twitter": "http://twitter.com/edwinellis",
             "instagram": "http://instagram.com/hcurry"
@@ -1929,7 +2006,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": false,
-        "registrationDate": "2024-10-28"
+        "registrationDate": "2024-10-28",
+        "id": "dacf2879-0ea2-4ef8-ac87-7072e2164898"
     },
     {
         "firstNames": "Paul Samantha",
@@ -1940,7 +2018,7 @@
         "gender": "other",
         "profession": "mechanic",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/berrytammy",
             "twitter": "http://twitter.com/johnli",
             "instagram": "http://instagram.com/jonesdonna",
@@ -1954,7 +2032,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": false,
-        "registrationDate": "2024-07-19"
+        "registrationDate": "2024-07-19",
+        "id": "d8cd4c46-3ab9-486a-9959-700db1203950"
     },
     {
         "firstNames": "Robert Mark",
@@ -1965,7 +2044,7 @@
         "gender": "male",
         "profession": "mechanic",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/andersonrebecca",
             "twitter": "http://twitter.com/jonesdonald",
             "instagram": "http://instagram.com/mariebailey",
@@ -1979,7 +2058,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/dog_survivor_in_ruined_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-02-18"
+        "registrationDate": "2024-02-18",
+        "id": "f75201cb-f5e0-41cc-890c-254fe0eb6bbd"
     },
     {
         "firstNames": "Erica Ethan",
@@ -1990,7 +2070,7 @@
         "gender": "female",
         "profession": "lawyer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/eddiecrawford",
             "twitter": "http://twitter.com/jlester",
             "instagram": "http://instagram.com/joshua02",
@@ -2004,7 +2084,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/silhouette_in_abandoned_building.png",
         "isFavorite": false,
-        "registrationDate": "2024-07-19"
+        "registrationDate": "2024-07-19",
+        "id": "be2a0b37-860d-432a-9d51-cb5e995ba2fc"
     },
     {
         "firstNames": "Eric Mark",
@@ -2015,7 +2096,7 @@
         "gender": "female",
         "profession": "engineer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/richard33",
             "twitter": "http://twitter.com/timothy52",
             "instagram": "http://instagram.com/oneilljoseph",
@@ -2029,7 +2110,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/soldier_walking_through_battlefield_aftermath.png",
         "isFavorite": true,
-        "registrationDate": "2025-01-13"
+        "registrationDate": "2025-01-13",
+        "id": "29368509-7140-4e1a-8031-adb690fdfcca"
     },
     {
         "firstNames": "Cassandra Dean",
@@ -2040,7 +2122,7 @@
         "gender": "other",
         "profession": "nurse",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/dlindsey",
             "twitter": "http://twitter.com/jermaine69",
             "instagram": "http://instagram.com/marcrobinson",
@@ -2054,7 +2136,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-05"
+        "registrationDate": "2024-11-05",
+        "id": "4a1e3ed3-86fe-4a63-b60f-cd40c3a85e52"
     },
     {
         "firstNames": "Rachel Bryan",
@@ -2065,7 +2148,7 @@
         "gender": "female",
         "profession": "lawyer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/nathan04",
             "twitter": "http://twitter.com/phillipsjohn",
             "instagram": "http://instagram.com/tara38"
@@ -2078,7 +2161,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cloaked_figure_in_misty_city.png",
         "isFavorite": true,
-        "registrationDate": "2024-07-31"
+        "registrationDate": "2024-07-31",
+        "id": "8ffd62e8-4f22-41e3-8c13-01fb322f7dd4"
     },
     {
         "firstNames": "Ann Joseph",
@@ -2089,7 +2173,7 @@
         "gender": "female",
         "profession": "designer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/gallowayjody",
             "twitter": "http://twitter.com/uanderson",
             "instagram": "http://instagram.com/jgray"
@@ -2102,7 +2186,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/samurai_dog_at_sunset_overlook.png",
         "isFavorite": true,
-        "registrationDate": "2024-10-13"
+        "registrationDate": "2024-10-13",
+        "id": "66553a41-96cd-4ab8-85a6-aeacc48b4663"
     },
     {
         "firstNames": "Briana Debra",
@@ -2113,7 +2198,7 @@
         "gender": "male",
         "profession": "pilot",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/apollard",
             "twitter": "http://twitter.com/zamoracharles",
             "instagram": "http://instagram.com/steven81"
@@ -2126,7 +2211,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cloaked_figure_in_misty_city.png",
         "isFavorite": false,
-        "registrationDate": "2024-06-06"
+        "registrationDate": "2024-06-06",
+        "id": "d39beb0b-b115-4de9-82b4-ec7e189a5815"
     },
     {
         "firstNames": "Ryan Matthew",
@@ -2137,7 +2223,7 @@
         "gender": "other",
         "profession": "teacher",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/jennifer70",
             "twitter": "http://twitter.com/woodlinda",
             "instagram": "http://instagram.com/paulrios",
@@ -2151,7 +2237,8 @@
         "avatar": 7,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ominous_deep-sea_fish_lurking.png",
         "isFavorite": false,
-        "registrationDate": "2024-12-18"
+        "registrationDate": "2024-12-18",
+        "id": "6b18bc36-fdd2-47a6-a9a8-7ebbdb31b33c"
     },
     {
         "firstNames": "Juan Alexandra",
@@ -2162,7 +2249,7 @@
         "gender": "female",
         "profession": "mechanic",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/matthew22",
             "twitter": "http://twitter.com/allenheather",
             "instagram": "http://instagram.com/carteraustin"
@@ -2175,18 +2262,19 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/soldier_walking_through_battlefield_aftermath.png",
         "isFavorite": false,
-        "registrationDate": "2024-07-20"
+        "registrationDate": "2024-07-20",
+        "id": "6dc78058-7bcf-4314-a2ee-0127691eeb2f"
     },
     {
         "firstNames": "Andre Jacqueline",
         "lastNames": "Montoya Pineda",
         "description": "Charge recognize home create main traditional. Bit set special ago impact environmental what sign.",
         "phone": "+1-720-138-2849x73267",
-        "country": "british indian ocean territory (chagos archipelago)",
+        "country": "colombia",
         "gender": "female",
         "profession": "nurse",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/lisa61",
             "twitter": "http://twitter.com/gwatson",
             "instagram": "http://instagram.com/thomasdanielle",
@@ -2200,7 +2288,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": true,
-        "registrationDate": "2024-09-28"
+        "registrationDate": "2024-09-28",
+        "id": "c6e92751-e5b7-49b4-83af-4bd9f68b2bc0"
     },
     {
         "firstNames": "Isaac Anthony",
@@ -2211,7 +2300,7 @@
         "gender": "male",
         "profession": "lawyer",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/julie32",
             "twitter": "http://twitter.com/debranovak",
             "instagram": "http://instagram.com/rpineda"
@@ -2224,7 +2313,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/ghost_in_mirror.png",
         "isFavorite": true,
-        "registrationDate": "2024-11-06"
+        "registrationDate": "2024-11-06",
+        "id": "08a25d14-4809-4b2b-beac-85c734f0aac6"
     },
     {
         "firstNames": "Kristie Cody",
@@ -2235,7 +2325,7 @@
         "gender": "male",
         "profession": "designer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/phendricks",
             "twitter": "http://twitter.com/soniabrady",
             "instagram": "http://instagram.com/qanderson"
@@ -2248,7 +2338,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_cosmic_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-03-12"
+        "registrationDate": "2024-03-12",
+        "id": "29c3e0d9-20e1-446d-9a66-e7fa146bbbe8"
     },
     {
         "firstNames": "Jessica Christopher",
@@ -2259,7 +2350,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/fmercer",
             "twitter": "http://twitter.com/taylorcarlos",
             "instagram": "http://instagram.com/hayesjennifer",
@@ -2273,7 +2364,8 @@
         "avatar": 6,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/soldier_walking_through_battlefield_aftermath.png",
         "isFavorite": false,
-        "registrationDate": "2024-07-12"
+        "registrationDate": "2024-07-12",
+        "id": "8a13e565-51af-4692-a01c-1d7349028634"
     },
     {
         "firstNames": "Lydia Martin",
@@ -2284,7 +2376,7 @@
         "gender": "other",
         "profession": "lawyer",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/michaellee",
             "twitter": "http://twitter.com/josephchung",
             "instagram": "http://instagram.com/michaelmccullough"
@@ -2297,7 +2389,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": true,
-        "registrationDate": "2024-08-10"
+        "registrationDate": "2024-08-10",
+        "id": "5424243a-7597-462b-8c80-e2c90b5100df"
     },
     {
         "firstNames": "Angela Austin",
@@ -2308,7 +2401,7 @@
         "gender": "female",
         "profession": "mechanic",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/reynoldstaylor",
             "twitter": "http://twitter.com/popeabigail",
             "instagram": "http://instagram.com/christine24",
@@ -2322,7 +2415,8 @@
         "avatar": 4,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_space.png",
         "isFavorite": true,
-        "registrationDate": "2025-01-12"
+        "registrationDate": "2025-01-12",
+        "id": "f5ff94f5-6683-4ed4-8b2d-501b68d28093"
     },
     {
         "firstNames": "Monica Chelsea",
@@ -2333,7 +2427,7 @@
         "gender": "male",
         "profession": "doctor",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/tharper",
             "twitter": "http://twitter.com/luis85",
             "instagram": "http://instagram.com/lisa49"
@@ -2346,7 +2440,8 @@
         "avatar": 1,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": false,
-        "registrationDate": "2024-12-06"
+        "registrationDate": "2024-12-06",
+        "id": "eae72496-0e51-4359-a912-9073578b4bf3"
     },
     {
         "firstNames": "Kelsey Christopher",
@@ -2357,7 +2452,7 @@
         "gender": "male",
         "profession": "developer",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/casejason",
             "twitter": "http://twitter.com/amycontreras",
             "instagram": "http://instagram.com/gilbertzachary",
@@ -2371,7 +2466,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_gazing_into_space.png",
         "isFavorite": true,
-        "registrationDate": "2024-12-27"
+        "registrationDate": "2024-12-27",
+        "id": "6284adfd-e6af-4fd6-b61b-c4272930bf90"
     },
     {
         "firstNames": "Dustin Julia",
@@ -2382,7 +2478,7 @@
         "gender": "female",
         "profession": "pilot",
         "role": "User",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/wgross",
             "twitter": "http://twitter.com/jeannealvarez",
             "instagram": "http://instagram.com/daviskristin",
@@ -2396,7 +2492,8 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/cosmic_astronaut_with_vibrant_hues.png",
         "isFavorite": false,
-        "registrationDate": "2024-04-06"
+        "registrationDate": "2024-04-06",
+        "id": "5c0e8322-cf8e-404a-bf7c-ef0d42bbf2c8"
     },
     {
         "firstNames": "Margaret Catherine",
@@ -2407,7 +2504,7 @@
         "gender": "male",
         "profession": "engineer",
         "role": "Administrator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/franklinanthony",
             "twitter": "http://twitter.com/ruizgreg",
             "instagram": "http://instagram.com/lsmith",
@@ -2421,7 +2518,8 @@
         "avatar": 2,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/dog_survivor_in_ruined_city.png",
         "isFavorite": false,
-        "registrationDate": "2024-08-30"
+        "registrationDate": "2024-08-30",
+        "id": "5a0d44de-f556-46ce-8788-908a7298658e"
     },
     {
         "firstNames": "Bradley Ashley",
@@ -2432,7 +2530,7 @@
         "gender": "male",
         "profession": "chef",
         "role": "Moderator",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/kelly20",
             "twitter": "http://twitter.com/longjeffrey",
             "instagram": "http://instagram.com/ashley25",
@@ -2446,7 +2544,8 @@
         "avatar": 3,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/astronaut_skull_in_space.png",
         "isFavorite": false,
-        "registrationDate": "2024-02-14"
+        "registrationDate": "2024-02-14",
+        "id": "7f9dae21-f4ae-42d8-af31-a9434ef3b80d"
     },
     {
         "firstNames": "Linda Cory",
@@ -2457,7 +2556,7 @@
         "gender": "other",
         "profession": "chef",
         "role": "Client",
-        "social_media": {
+        "socialMedia": {
             "facebook": "http://facebook.com/ryan82",
             "twitter": "http://twitter.com/tortiz",
             "instagram": "http://instagram.com/andrew52",
@@ -2471,6 +2570,7 @@
         "avatar": 5,
         "avatarUrl": "https://generative-ai-ultisaer.s3.sa-east-1.amazonaws.com/images/spectral_astronaut_with_stellar_backdrop.png",
         "isFavorite": false,
-        "registrationDate": "2024-09-21"
+        "registrationDate": "2024-09-21",
+        "id": "6a3dd249-45fc-4bc4-bff3-b21cf75c8024"
     }
 ]

@@ -12,10 +12,10 @@ const App = () => {
             <Route path=":user_id" element={<Users/>} />
           </Route>
           <Route path="/user/:user_id" element={<div>User Super Detail</div>} />
-          <Route path="/favorites" element={<div>Favorite Users</div>}>
+          <Route path="/favorites" element={<Users/>}>
             <Route
               path=":user_id"
-              element={<div>Favorite User Mini Detail</div>}
+              element={<Users/>}
             />
           </Route>
           <Route path="/metrics" element={<div>Metrics</div>} />

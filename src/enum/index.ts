@@ -16,6 +16,14 @@ enum RoutesType {
   METRICS = "metrics"
 }
 
+enum FilterUserType {
+  FIRSTNAMES = "firstNames",
+  LASTNAMES = "lastNames",
+  EMAIL = "email",
+  COUNTRY = "country",
+  ADDRESS = "address"
+}
+
 enum ErrorType {
   ErrorGetUsers = "errorBack.errorGetUsers",
   ErrorGetUser = "errorBack.errorGetUser",
@@ -23,6 +31,4 @@ enum ErrorType {
   ErrorSendInfo = "errorBack.sendInfo"
 }
 
-
-
-export { SupportLanguages, ErrorType, RoutesType, ThemeType };
+export { SupportLanguages, ErrorType, RoutesType, ThemeType, FilterUserType };
