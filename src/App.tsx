@@ -7,16 +7,17 @@ const App = () => {
     <HashRouter>
       <Routes>
         <Route path="/" element={<Home />}>
-          <Route index element={<Users/>} />
-          <Route path="/users" element={<Users/>}>
-            <Route path=":user_id" element={<Users/>} />
+          <Route index element={<Users />} />
+          <Route path="/users" element={<Users />}>
+            <Route path=":user_id" element={<Users />} />
           </Route>
+          <Route
+            path="/user"
+            element={<div>Busca a un usuario para ver su informacion</div>}
+          ></Route>
           <Route path="/user/:user_id" element={<div>User Super Detail</div>} />
-          <Route path="/favorites" element={<Users/>}>
-            <Route
-              path=":user_id"
-              element={<Users/>}
-            />
+          <Route path="/favorites" element={<Users />}>
+            <Route path=":user_id" element={<Users />} />
           </Route>
           <Route path="/metrics" element={<div>Metrics</div>} />
           <Route path="*" element={<div>Page Not Found</div>} />

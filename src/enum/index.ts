@@ -24,6 +24,13 @@ enum FilterUserType {
   ADDRESS = "address"
 }
 
+enum CardInfoType {
+  PHONE = "phone",
+  ADDRESS = "address",
+  COUNTRY = "country",
+  GENDER = "gender",
+}
+
 enum ErrorType {
   ErrorGetUsers = "errorBack.errorGetUsers",
   ErrorGetUser = "errorBack.errorGetUser",
@@ -31,4 +38,4 @@ enum ErrorType {
   ErrorSendInfo = "errorBack.sendInfo"
 }
 
-export { SupportLanguages, ErrorType, RoutesType, ThemeType, FilterUserType };
+export { SupportLanguages, ErrorType, RoutesType, ThemeType, FilterUserType, CardInfoType };

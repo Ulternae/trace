@@ -8,8 +8,8 @@
   },
   "user": {
     "avatar": "User avatar",
-    "firstNames" : "Names",
-    "lastNames" : "Last Names",
+    "firstNames": "Names",
+    "lastNames": "Last Names",
     "phone": "Phone",
     "country": "Country",
     "gender": "Gender",
@@ -20,9 +20,11 @@
     "state": "State",
     "language": "Language",
     "email": "Email",
-    "searchUser" : "Search user by {{category}}",
+    "searchUser": "Search user by {{category}}",
     "totalUsers": "Total users: {{count}}",
-    "userNotFound" : "User not found, try other users"
+    "userNotFound": "User not found, try other users",
+    "yearsOld" : "{{age}} years old",
+    "birthDate" : "BirthDate"
   },
   "theme": {
     "dark": "Dark Mode",
@@ -48,8 +50,8 @@
     "userRole": "User role",
     "userName": "User name",
     "userSettings": "User settings",
-    "userSearch" : "User search",
-    "searchInput" : "Search input",
+    "userSearch": "User search",
+    "searchInput": "Search input",
     "toggleFilter": "Toggle filter options",
     "filterOptions": "Filter options",
     "filterOption": "Filter option {{filter}}",
@@ -66,12 +68,11 @@
     "en": "English",
     "gl": "Galician"
   },
-  "gender": {
+  "optionUser": {
     "male": "Male",
     "female": "Female",
-    "other": "Other"
-  },
-  "profession": {
+    "other": "Other",
+
     "engineer": "Engineer",
     "doctor": "Doctor",
     "teacher": "Teacher",
@@ -81,15 +82,13 @@
     "lawyer": "Lawyer",
     "mechanic": "Mechanic",
     "chef": "Chef",
-    "pilot": "Pilot"
-  },
-  "role": {
+    "pilot": "Pilot",
+
     "administrator": "Administrator",
     "user": "User",
     "client": "Client",
-    "moderator": "Moderator"
-  },
-  "status": {
+    "moderator": "Moderator",
+
     "single": "Single",
     "married": "Married",
     "divorced": "Divorced",
