@@ -13,6 +13,7 @@ const Home = () => {
         <Sidebar 
           isLoading={isUserLoading}
           dataUser={user}
+          error={userError}
         />
       </div>
       <Outlet 

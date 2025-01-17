@@ -5,7 +5,6 @@ import { SidebarLoading } from "./Loading";
 import { NavigationList } from "../Navigation";
 import { RoutesType } from "../../enum";
 import {
-  ChartBarIcon,
   ChevronRightIcon,
   HeartIcon,
   UsersIcon,
@@ -14,17 +13,21 @@ import { SettingsUser } from "../SettingsUser";
 import { ThemeMode } from "../SettingsUser/ThemeMode";
 import { Menu } from "../../icons/Menu";
 import { useToggleVisibility } from "../../hooks/useToggleVisibility";
+import { ErrorBack } from "../../interfaces/error";
 
 const Sidebar = ({
   isLoading,
   dataUser,
+  error,
 }: {
   isLoading: boolean;
   dataUser: User | null;
+  error: ErrorBack;
 }) => {
   const { t } = useTranslation();
   const { setRef, showElement, hideElement } = useToggleVisibility();
 
+  const isErrorBack = error.error;
   if (isLoading) return <SidebarLoading />;
 
   return (
@@ -37,84 +40,91 @@ const Sidebar = ({
         ref={(el) => setRef(el)}
         aria-hidden="false"
       >
-        <header
-          className="flex flex-col justify-between gap-8"
-          aria-label={t('accessibility.appHeader')}
-        >
-          <div className="flex gap-3 px-7 relative items-center">
-            <Logo />
-            <h1 className="font-bold text-4xl text-perl-800 dark:text-liwr-200">
-              {t("global.nameApp")}
-            </h1>
-            <button
-              className="md:hidden group absolute right-3 w-9 h-9 grid place-content-center cursor-pointer"
-              aria-label={t('accessibility.hideSidebar')}
-              onClick={hideElement}
+        {isErrorBack ? (
+          <div className="px-7 grid place-content-center h-full">
+            <p className="font-bold text-lg text-perl-800 dark:text-liwr-200 leading-none text-center">{t(error.typeError)}</p>
+          </div>
+        ) : (
+          <>
+            <header
+              className="flex flex-col justify-between gap-8"
+              aria-label={t("accessibility.appHeader")}
             >
-              <ChevronRightIcon className="w-5 h-5 fill-perl-700 dark:fill-liwr-300 group-hover:fill-perl-800 group-hover:dark:fill-liwr-200 transition-colors duration-300" />
-            </button>
-          </div>
-          <div
-            className="grid grid-cols-[36px_1fr] h-9 gap-3 px-7 mt-2"
-            aria-label={t('accessibility.userInformation')}
-          >
-            <img
-              className="bg-perl-400 dark:bg-liwr-500 w-9 h-9 rounded-full object-cover"
-              src={dataUser?.avatarUrl}
-              alt={dataUser?.firstNames || t("user.avatar")}
-            />
-            <div className="flex flex-col justify-center">
-              <h1
-                className="line- text-lg font-bold text-perl-800 dark:text-liwr-200 leading-none"
-                aria-label={t('accessibility.userRole')}
+              <div className="flex gap-3 px-7 relative items-center">
+                <Logo />
+                <h1 className="font-bold text-4xl text-perl-800 dark:text-liwr-200">
+                  {t("global.nameApp")}
+                </h1>
+                <button
+                  className="md:hidden group absolute right-3 w-9 h-9 grid place-content-center cursor-pointer"
+                  aria-label={t("accessibility.hideSidebar")}
+                  onClick={hideElement}
+                >
+                  <ChevronRightIcon className="w-5 h-5 fill-perl-700 dark:fill-liwr-300 group-hover:fill-perl-800 group-hover:dark:fill-liwr-200 transition-colors duration-300" />
+                </button>
+              </div>
+              <div
+                className="grid grid-cols-[36px_1fr] h-9 gap-3 px-7 mt-2"
+                aria-label={t("accessibility.userInformation")}
               >
-                {t(`role.${dataUser?.role}`)}
-              </h1>
-              <p
-                className="text-base text-perl-700 dark:text-liwr-300 leading-none"
-                aria-label={t('accessibility.userName')}
+                <img
+                  className="bg-perl-400 dark:bg-liwr-500 w-9 h-9 rounded-full object-cover"
+                  src={dataUser?.avatarUrl}
+                  alt={dataUser?.firstNames || t("user.avatar")}
+                />
+                <div className="flex flex-col justify-center">
+                  <h1
+                    className="line- text-lg font-bold text-perl-800 dark:text-liwr-200 leading-none"
+                    aria-label={t("accessibility.userRole")}
+                  >
+                    {t(`optionUser.${dataUser?.role}`)}
+                  </h1>
+                  <p
+                    className="text-base text-perl-700 dark:text-liwr-300 leading-none"
+                    aria-label={t("accessibility.userName")}
+                  >
+                    {dataUser?.firstNames}
+                  </p>
+                </div>
+              </div>
+              <div
+                className="h-1 w-full bg-perl-400 dark:bg-liwr-500 mt-2"
+                aria-hidden="true"
+              />
+            </header>
+
+            <nav
+              className="py-10 px-7 flex flex-col gap-2"
+              aria-label={t("accessibility.mainNavigation")}
+            >
+              <NavigationList
+                route={RoutesType.USERS}
+                name={t("routes.users")}
+                icon={UsersIcon}
+              />
+              <NavigationList
+                route={RoutesType.FAVORITES}
+                name={t("routes.favorites")}
+                icon={HeartIcon}
+              />
+
+            </nav>
+
+            <div>
+              <div
+                className="h-1 w-full bg-perl-400 dark:bg-liwr-500"
+                aria-hidden="true"
+              />
+              <div
+                className="py-10 px-7 grid gap-2"
+                aria-label={t("accessibility.userSettings")}
               >
-                {dataUser?.firstNames}
-              </p>
+                <SettingsUser name={t("routes.settings")} />
+                <ThemeMode />
+              </div>
             </div>
-          </div>
-          <div
-            className="h-1 w-full bg-perl-400 dark:bg-liwr-500 mt-2"
-            aria-hidden="true"
-          />
-        </header>
-
-        <nav
-          className="py-10 px-7 flex flex-col gap-2"
-          aria-label={t("accessibility.mainNavigation")}
-        >
-          <NavigationList
-            route={RoutesType.USERS}
-            name={t("routes.users")}
-            icon={UsersIcon}
-          />
-          <NavigationList
-            route={RoutesType.FAVORITES}
-            name={t("routes.favorites")}
-            icon={HeartIcon}
-          />
-          <NavigationList
-            route={RoutesType.METRICS}
-            name={t("routes.metrics")}
-            icon={ChartBarIcon}
-          />
-        </nav>
-
-        <div>
-          <div
-            className="h-1 w-full bg-perl-400 dark:bg-liwr-500"
-            aria-hidden="true"
-          />
-          <div className="py-10 px-7 grid gap-2" aria-label={t('accessibility.userSettings')}>
-            <SettingsUser name={t("routes.settings")} />
-            <ThemeMode />
-          </div>
-        </div>
+          </>
+        )}
       </div>
 
       <div

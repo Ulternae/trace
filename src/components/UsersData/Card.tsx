@@ -6,8 +6,9 @@ import { ArrowsPointingOutIcon } from "@heroicons/react/20/solid";
 import { CardInfoType } from "../../enum";
 import { ItemsInfo } from "./ItemsInfo";
 import { calculateAge } from "../../utils/getAge";
+import React from "react";
 
-const Card = ({ userId }: { userId: string }) => {
+const Card = React.memo(({ userId }: { userId: string }) => {
   const { users } = useOutletContext<OutletContextType>();
   const { t } = useTranslation();
   const dataUser = getDataUser({ userId, data: users });
@@ -19,14 +20,21 @@ const Card = ({ userId }: { userId: string }) => {
 
   if (!dataUser)
     return (
-      <p className="text-perl-800 dark:text-liwr-200">
+      <p
+        className="text-perl-800 dark:text-liwr-200"
+        role="alert"
+        aria-live="polite"
+      >
         {t("user.userNotFound")}
       </p>
     );
 
   return (
-    <div className="lg:max-w-96 max-h-[700px] bg-perl-300/50 dark:bg-liwr-500 rounded-lg flex flex-col justify-between">
-      <div className="py-10 relative flex flex-col gap-16">
+    <article
+      className="lg:max-w-96 max-h-[700px] bg-perl-300/50 dark:bg-liwr-500 rounded-lg flex flex-col justify-between"
+      aria-labelledby={`user-card-${userId}`}
+    >
+      <header className="py-10 relative flex flex-col gap-16">
         <div className="flex flex-wrap justify-center items-center gap-9 px-4 sm:px-12">
           <img
             src={dataUser.avatarUrl}
@@ -45,28 +53,35 @@ const Card = ({ userId }: { userId: string }) => {
           {Object.values(CardInfoType).map((v) => (
             <ItemsInfo
               name={t(`user.${v}`)}
-              value={t(`optionUser.${dataUser[v]}`, { defaultValue: dataUser[v] })}
-              />
+              key={v}
+              value={t(`optionUser.${dataUser[v]}`, {
+                defaultValue: dataUser[v],
+              })}
+            />
           ))}
           <ItemsInfo
-            name={t("user.birthDate")}
-            value={t("user.yearsOld" , { age: calculateAge(dataUser.birthDate)})}
+            key={crypto.randomUUID()}
+            name={t("user.age")}
+            value={t("user.yearsOld", {
+              age: calculateAge(dataUser.birthDate),
+            })}
           />
-            
         </div>
         <ArrowsPointingOutIcon
           className="absolute left-4 top-4 w-5 h-5 hover:fill-perl-800 hover:dark:fill-liwr-200 fill-perl-700 dark:fill-liwr-300 transition-colors duration-300 cursor-pointer"
           onClick={handleNavigateUser}
+          aria-label={t("accessibility.expandProfile")}
         />
-      </div>
+      </header>
       <button
         className="py-4 items-center w-full cursor-pointer bg-perl-500 dark:bg-liwr-400 leading-none dark:text-liwr-200 text-perl-800 rounded-b-lg"
         onClick={handleNavigateUser}
+        aria-label={t("accessibility.expandProfile")}
       >
-        Ver perfil completo
+        {t("user.viewFullProfile")}
       </button>
-    </div>
+    </article>
   );
-};
+});
 
 export { Card };

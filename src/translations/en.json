@@ -3,8 +3,10 @@
     "nameApp": "Trace"
   },
   "errorBack": {
-    "errorGetUser": "There was an unexpected failure while logging in with the user, Please try again later",
-    "errotGetUsers": "Error fetching users information"
+    "errorGetUser": "There was an unexpected failure while logging in with the user",
+    "errorGetUsers": "Error fetching users information",
+    "errorSendInfo": "Error sending information",
+    "unknownError" : "Unknown error, we are working to find the error, please try again later"
   },
   "user": {
     "avatar": "User avatar",
@@ -24,7 +26,13 @@
     "totalUsers": "Total users: {{count}}",
     "userNotFound": "User not found, try other users",
     "yearsOld" : "{{age}} years old",
-    "birthDate" : "BirthDate"
+    "birthDate" : "BirthDate",
+    "viewFullProfile" : "View full profile",
+    "informationNotFound" : "User information was not found, try another user",
+    "searchUserGetInformation" : "Search for a user to view their information",
+    "status" : "Status",
+    "favorite" : "Favorite user",
+    "notFavorite" : "Not favorite user"
   },
   "theme": {
     "dark": "Dark Mode",
@@ -33,8 +41,11 @@
   "routes": {
     "users": "Users",
     "favorites": "Favorites",
-    "metrics": "Metrics",
-    "settings": "Settings"
+    "settings": "Settings",
+    "user" : "User"
+  },
+  "pages" : {
+    "notFound" : "Page not found, try with another"
   },
   "language": {
     "title": "Language"
@@ -61,7 +72,9 @@
     "previousPage": "Go to previous page",
     "currentPage": "Current page input",
     "nextPage": "Go to next page",
-    "lastPage": "Go to last page"
+    "lastPage": "Go to last page",
+    "viewFullProfile" : "View full profile",
+    "goToUsers" : "Go to users"
   },
   "languages": {
     "es": "Spanish",
@@ -94,6 +107,10 @@
     "divorced": "Divorced",
     "widowed": "Widowed",
     "separated": "Separated",
-    "partnered": "Partnered"
+    "partnered": "Partnered",
+
+    "es": "Spanish",
+    "en": "English",
+    "gl": "Galician"
   }
 }

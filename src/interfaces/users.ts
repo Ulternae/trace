@@ -14,7 +14,7 @@ interface User {
   gender: string;
   profession: string;
   role: string;
-  social_media: SocialMedia;
+  socialMedia: SocialMedia;
   address: string;
   birthDate: string;
   status: string;

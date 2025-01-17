@@ -3,31 +3,89 @@
     "nameApp": "Trace"
   },
   "errorBack": {
-    "errorGetUser" : "Produciuse un fallo inesperado ao iniciar sesión co usuario, por favor tente de novo máis tarde",
-    "errotGetUsers" : "Erro ao obter información dos usuarios"
+    "errorGetUser": "Produciuse un erro inesperado ao iniciar sesión co usuario",
+    "errorGetUsers": "Erro ao obter información dos usuarios",
+    "errorSendInfo": "Erro ao enviar a información",
+    "unknownError": "Erro descoñecido, estamos traballando para resolvelo, por favor inténtao máis tarde"
   },
-  "routes" : {
-    "users" : "Usuarios",
-    "favorites" : "Favoritos",
-    "metrics" : "Métricas",
-    "settings" : "Configuración",
-    "darkMode" : "Modo Escuro",
-    "lightMode" : "Modo Claro"
+  "user": {
+    "avatar": "Avatar do usuario",
+    "firstNames": "Nomes",
+    "lastNames": "Apelidos",
+    "phone": "Teléfono",
+    "country": "País",
+    "gender": "Xénero",
+    "profession": "Profesión",
+    "social_media": "Redes Sociais",
+    "address": "Enderezo",
+    "age": "Idade",
+    "state": "Estado",
+    "language": "Idioma",
+    "email": "Correo electrónico",
+    "searchUser": "Buscar usuario por {{category}}",
+    "totalUsers": "Total de usuarios: {{count}}",
+    "userNotFound": "Usuario non atopado, proba con outros usuarios",
+    "yearsOld": "{{age}} anos",
+    "birthDate": "Data de Nacemento",
+    "viewFullProfile": "Ver perfil completo",
+    "informationNotFound": "Non se atopou información do usuario, intenta con outro usuario",
+    "searchUserGetInformation": "Busca un usuario para ver a súa información",
+    "status": "Estado",
+    "favorite": "Usuario favorito",
+    "notFavorite": "Usuario non favorito"
   },
-  "accessibility" : {
-    "navigateTo" : "Navegar a {{type}}"
+  "theme": {
+    "dark": "Modo Escuro",
+    "light": "Modo Claro"
+  },
+  "routes": {
+    "users": "Usuarios",
+    "favorites": "Favoritos",
+    "settings": "Configuración",
+    "user": "Usuario"
+  },
+  "pages": {
+    "notFound": "Páxina non atopada, intenta con outra"
+  },
+  "language": {
+    "title": "Idioma"
+  },
+  "accessibility": {
+    "navigateTo": "Navegar a {{type}}",
+    "showSidebar": "Amosar barra lateral",
+    "mainNavigation": "Navegación principal",
+    "sidebarNavigation": "Navegación da barra lateral",
+    "appHeader": "Cabeceira da aplicación",
+    "hideSidebar": "Ocultar barra lateral",
+    "userInformation": "Información do usuario",
+    "userRole": "Rol do usuario",
+    "userName": "Nome do usuario",
+    "userSettings": "Configuración do usuario",
+    "userSearch": "Busca de usuario",
+    "searchInput": "Entrada de busca",
+    "toggleFilter": "Alternar opcións de filtro",
+    "filterOptions": "Opcións de filtro",
+    "filterOption": "Opción de filtro {{filter}}",
+    "userCards": "Tarxetas de usuario",
+    "pagination": "Controis de páxinas",
+    "firstPage": "Ir á primeira páxina",
+    "previousPage": "Ir á páxina anterior",
+    "currentPage": "Entrada da páxina actual",
+    "nextPage": "Ir á páxina seguinte",
+    "lastPage": "Ir á última páxina",
+    "viewFullProfile": "Ver perfil completo",
+    "goToUsers": "Ir a usuarios"
   },
   "languages": {
     "es": "Español",
     "en": "Inglés",
     "gl": "Galego"
   },
-  "gender": {
+  "optionUser": {
     "male": "Home",
     "female": "Muller",
-    "other": "Outro"
-  },
-  "profession": {
+    "other": "Outro",
+
     "engineer": "Enxeñeiro",
     "doctor": "Doutor",
     "teacher": "Profesor",
@@ -37,20 +95,22 @@
     "lawyer": "Avogado",
     "mechanic": "Mecánico",
     "chef": "Cociñeiro",
-    "pilot": "Piloto"
-  },
-  "role": {
+    "pilot": "Piloto",
+
     "administrator": "Administrador",
     "user": "Usuario",
     "client": "Cliente",
-    "moderator": "Moderador"
-  },
-  "status": {
+    "moderator": "Moderador",
+
     "single": "Solteiro",
     "married": "Casado",
     "divorced": "Divorciado",
     "widowed": "Viúvo",
     "separated": "Separado",
-    "partnered": "Con parella"
+    "partnered": "Con parella",
+
+    "es": "Español",
+    "en": "Inglés",
+    "gl": "Galego"
   }
 }

@@ -1,6 +1,6 @@
 import { useLocation, useOutletContext, useParams } from "react-router-dom";
 import { OutletContextType } from "../types";
-import { UserDataLoading } from "../components/UsersData/Loading";
+import { UsersDataLoading } from "../components/UsersData/Loading";
 import { useTranslation } from "react-i18next";
 import { Search } from "../components/Search";
 import { useFilterCategory } from "../hooks/useFilterCategory";
@@ -8,6 +8,7 @@ import { useState } from "react";
 import { RoutesType } from "../enum";
 import { CardPreview } from "../components/UsersData/CardPreview";
 import { Card } from "../components/UsersData/Card";
+import { ViewMessage } from "../components/ViewMessage";
 
 const Users = () => {
   const { users, isUsersLoading, usersError } =
@@ -26,14 +27,16 @@ const Users = () => {
     filterFavoritesOnly: isRouteFavorite,
   });
 
-  console.log({ usersFiltered, currentFilter, setCurrentFilter });
+  const routeName = isRouteFavorite ? t("routes.favorites") : t("routes.users")
 
-  if (isUsersLoading) return <UserDataLoading />;
+  if (isUsersLoading) return <UsersDataLoading containSlug={!!user_id}/>;
+  if (usersError.error)
+    return <ViewMessage message={t(usersError.typeError)} routeName={routeName} />;
 
   return (
     <div className="py-8 grid grid-cols-1 max-w-[1111px] lg:grid-cols-[330px_1fr] xl:grid-cols-[6fr_6fr_8fr] grid-rows-[auto_auto_auto_1fr] sm:grid-rows-[auto_48px_auto_1fr] lg:grid-rows-[auto_48px_1fr] gap-y-6 gap-x-7 md:gap-y-12">
       <h1 className="lg:col-span-full font-bold text-3xl text-perl-800 dark:text-liwr-200">
-        {isRouteFavorite ? t("routes.favorites") : t("routes.users")}
+        {routeName}
       </h1>
 
       <Search
@@ -44,8 +47,7 @@ const Users = () => {
         className="lg:col-span-full"
       />
 
-    {user_id && <Card userId={user_id}  />
-    }
+      {user_id && <Card userId={user_id} />}
       <div className="sm:grid-cols-2 lg:row-start-3 xl:col-span-2">
         <CardPreview
           className="flex flex-wrap sm:grid lg:flex xl:grid sm:grid-cols-2 gap-x-4 gap-y-3"
