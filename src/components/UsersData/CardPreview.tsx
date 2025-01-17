@@ -27,7 +27,7 @@ const CardPreview = ({
   } = usePagination({ data, maxItems: 18 });
 
   const navigate = useNavigate();
-  const location = useLocation().pathname.split("/")[1];
+  const location = useLocation().pathname.split("/")[1] || 'users';
   const { t } = useTranslation();
   const { user_id } = useParams();
 
